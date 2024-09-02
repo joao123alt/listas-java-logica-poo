@@ -3,6 +3,8 @@ package com.lista1.exercicios;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import com.lista1.exercicios.lista1.Exercicio4;
+
 @SpringBootApplication
 public class ExerciciosApplication {
 
