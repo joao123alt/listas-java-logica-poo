@@ -1,5 +1,6 @@
 package com.lista2;
 
+import java.util.Scanner;
 public class Exercicio6 {
     public static void resolucao2(){
         //Código de resolução: Exercicio6.resolucao2();
