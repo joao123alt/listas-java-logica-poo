@@ -4,9 +4,7 @@ import java.util.Scanner;
 public class Exercicio2 {
 
         public static void resolucao(){
-            System.out.println("==========================================================================");
-            System.out.println("2) Desenvolva um programa que receba um número do usuário e escreva a tabuada dele:");
-    
+        
             Scanner leia = new Scanner(System.in);
             int numero;
             System.out.print("\nDigite um número para ver sua tabuada: ");
