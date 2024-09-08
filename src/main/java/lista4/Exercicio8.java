@@ -29,7 +29,6 @@ public class Exercicio8 {
                 
         opcao = scanner.nextInt();
                 scanner.nextLine(); 
-                scanner.nextDouble(); 
 
     
                  switch (opcao) {
